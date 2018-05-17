@@ -1,0 +1,65 @@
+/*font-family Montserrat*/
+
+title {
+	text-align:center;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+ h1-h6 {
+ 	font-family:raleway;
+ 	text-align: center;
+
+ }
+
+body {
+ 	color: blue;
+ 	color-background: white;
+ 	text-align: center;
+ }
+  
+  p {
+  	font-family:monteserrat;
+  	text-align: center;
+  }
+
+img.profile {
+	width: 300px;
+	;
+}
+  
+img.grid {
+	width: 180px;
+	;
+}
+
+.icon {
+	align-content: center;
+	height: 100px;
+	width: 150px;
+
+
+
+.icon {
+  background: blue;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+  padding: 18px;
+}
+
+.icon:hover {
+  background: white;
+  border: 1px solid blue;
+  color: blue;
+}
+}
+/*.icon:hover {*/
+  /*background: white;*/
+  /*border: 1px solid red;*/
+  /*color: red;*/
+}
